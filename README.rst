@@ -1,3 +1,5 @@
+Copied from Greg Malcolm
+
 ============
 Python Koans
 ============
